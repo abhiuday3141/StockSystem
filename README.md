@@ -1,7 +1,7 @@
 # STOCK SYSTEM
 Stock System with smart suggestion 
 
-This Project is different from traditional projects that are not user-friendly
+This Project is different from traditional projects which are not user-friendly
 
 ## Problems in tradtional c++ projects:
 
@@ -26,19 +26,23 @@ Here we have utlized to functions that convert one data structure to another for
 
 ## SCREENSHOTS
 
-### 1. Homescreen
+### 1.Homescreen
 
 ![Screenshot](Screenshots/stockworking1.png)
 
+### 2.Register Page
+
 ![Screenshot](Screenshots/stockworking2.png)
+
+### 3.Login Page
 
 ![Screenshot](Screenshots/stockworking3.png)
 
-### 2. Other functionalities
+### 4.Menu
 
 ![Screenshot](Screenshots/stockworking4.png)
 
-![Screenshot](Screenshots/stockworking5.png)
+### 5.Smart Suggestion
 
 ![Screenshot](Screenshots/stockworking6.png)
 
