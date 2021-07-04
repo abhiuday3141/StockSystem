@@ -28,18 +28,18 @@ Here we have utlized to functions that convert one data structure to another for
 
 ### 1. Homescreen
 
-![Screenshot](Screenshots/stockWorking1.png)
+![Screenshot](Screenshots/stockworking1.png)
 
-![Screenshot](Screenshots/stockyWorking2.png)
+![Screenshot](Screenshots/stockworking2.png)
 
-![Screenshot](Screenshots/stockWorking3.png)
+![Screenshot](Screenshots/stockworking3.png)
 
 ### 2. Other functionalities
 
-![Screenshot](Screenshots/DictionaryWorking4.png)
+![Screenshot](Screenshots/stockworking4.png)
 
-![Screenshot](Screenshots/DictionaryWorking5.png)
+![Screenshot](Screenshots/stockworking5.png)
 
-![Screenshot](Screenshots/DictionaryWorking6.png)
+![Screenshot](Screenshots/stockworking6.png)
 
 
