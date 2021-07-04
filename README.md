@@ -1,4 +1,4 @@
-# STOCK SYSTEM
+# Stock System
 Stock System with smart suggestion 
 
 This Project is different from traditional projects which are not user-friendly
